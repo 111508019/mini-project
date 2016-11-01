@@ -1,4 +1,6 @@
-program: program.o
-	cc program.o -o program
-program.o: program.c
-	cc -Wall -c program.c
+project: project.o
+	cc project.o -o project
+project.o: project.c
+	cc -Wall -c project.c
+clean: 
+	rm *.o
