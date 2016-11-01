@@ -1,4 +1,6 @@
 # mini-project
+Name: Sneha S. Chhajed
+MIS: 111508019
 ENCRYPTION AND DECRYPTION ALGORITHM IMPLEMENTATION:
 1.RSA(Asymmetric key)
 2.AES(Symmetric key)
